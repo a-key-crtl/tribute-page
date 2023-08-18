@@ -1,0 +1,56 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #DCDCDC;
+}
+
+.title {
+    text-align: center;
+}
+
+#img-div {
+   background-color: #DCDCDC;
+}
+
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 5px;
+
+
+}
+
+#img-caption {
+    text-align: center;
+    padding-top: 10px;
+}
+
+ul.timeline {
+    display: inline-block;
+    text-align: left;
+}
+
+section h2 {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+figcaption {
+    font-size: 15px;
+}
+
+footer p {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
